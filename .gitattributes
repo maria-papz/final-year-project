@@ -1,0 +1,6 @@
+datasets filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+datasets/congress_tweets.zip filter=lfs diff=lfs merge=lfs -text
+datasets/sp500_news_290k_articles.csv filter=lfs diff=lfs merge=lfs -text
+Labelled[[:space:]]Datasets.zip filter=lfs diff=lfs merge=lfs -text
